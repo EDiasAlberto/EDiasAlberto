@@ -23,4 +23,4 @@ Some form of e-commerce site, effectively an eBay duplicate, without actual comm
 
 ----------------------------------------------------------------------------------
 
-[My GitHub Pages Website](EDiasAlberto.github.io "Check it out!")
+[My GitHub Pages Website](https://EDiasAlberto.github.io "Check it out!")
