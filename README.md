@@ -19,4 +19,4 @@ Some form of e-commerce site, effectively an eBay duplicate, without actual comm
 - Develop understanding of JavaScript
 - Develop knowledge of electronics hardware
 
-### Thanks for reading! Feel free to browse through my repositories (more coming soon)
+##### Thanks for reading! Feel free to browse through my repositories (more coming soon)
