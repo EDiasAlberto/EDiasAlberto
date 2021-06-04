@@ -4,6 +4,7 @@ Hi, my name is Ethan Dias Alberto and welcome to my github page.
 ## Technologies I have used:
 - Python
 - HTML
+- CSS
 - JavaScript
 - C++
 - ArduinoC
@@ -11,7 +12,8 @@ Hi, my name is Ethan Dias Alberto and welcome to my github page.
 - Websockets
 
 ## Current Project(s):
-Some form of e-commerce site, effectively an eBay duplicate, without actual commercial capability for security reasons.
+- Some form of e-commerce site, effectively an eBay duplicate, without actual commercial capability for security reasons.
+- ProxaBot (I think this will remain an eternal project)
 
 ## Goals:
 - Learn MongoDB
