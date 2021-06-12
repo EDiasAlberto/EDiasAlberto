@@ -1,5 +1,5 @@
 # About me
-Hi, my name is Ethan Dias Alberto and welcome to my github page. 
+Hi, my name is Ethan Dias Alberto and welcome to my GitHub page. 
 
 ## Technologies I have used:
 - Python
