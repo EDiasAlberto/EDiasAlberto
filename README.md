@@ -13,6 +13,7 @@ Hi, my name is Ethan Dias Alberto and welcome to my GitHub page.
 
 ## Current Project(s):
 - Some form of e-commerce site, effectively an eBay duplicate, without actual commercial capability for security reasons.
+- Forum site with anonymous posting or account posting
 - ProxaBot (I think this will remain an eternal project)
 
 ## Goals:
