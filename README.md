@@ -1,30 +1,23 @@
-# About me
-Hi, my name is Ethan Dias Alberto and welcome to my GitHub page. 
+<div align="center">
+  <h1> Hi, I'm Ethan! </h1>
+  <h2> Full-stack developer and University Student
+  <p>
+    <a href="https://github.com/EDiasAlberto">
+      <img src="https://img.shields.io/github/followers/EDiasAlberto?label=Follow&style=social" />
+    </a>
+    <a href="https://github.com/EDiasAlberto">
+      <img src="https://komarev.com/ghpvc/?username=EDiasALberto&color=brightgreen" />
+    </a>
+  </p>
+</div>
 
-## Technologies I have used:
-- Python
-- HTML
-- CSS
-- JavaScript
-- C/C++
-- ArduinoC
-- NextJS
-- Websockets
-- TailwindCSS
-- MongoDB
+# About me
+Hi, my name is Ethan Dias Alberto! I'm currently a university student studying Computer Science, but I love exploring the field in my own time.
+I have experience with full-stack web development, ArduinoC, Python and C, amongst other things, and I'm always eager to make the list grow! 
 
 ## Current Project(s):
-- Forum site with anonymous posting or account posting
-- Some form of ML model to play geometry dash
-- A website to allow use of a phone as controller
-
-## Goals:
-- Begin contributing to open-source projects
-- Develop understanding of CSS (without Tailwind)
-- Develop knowledge of Artificial Intelligence
+- Peer-to-Peer means of hosting websites, with UDP holepunching
+- Home server with high availability to self-host some services and websites
+- Learning offensive cyber security through HackTheBox
 
 ##### Thanks for reading! Feel free to browse through my repositories (more coming soon)
-
-----------------------------------------------------------------------------------
-
-[My GitHub Pages Website](https://EDiasAlberto.github.io "Check it out!")
