@@ -19,5 +19,6 @@ I have experience with full-stack web development, ArduinoC, Python and C, among
 - Peer-to-Peer means of hosting websites, with UDP holepunching
 - Home server with high availability to self-host some services and websites
 - Learning offensive cyber security through HackTheBox
+- Entity simulation application, with rust backend and python front-end
 
 ##### Thanks for reading! Feel free to browse through my repositories (more coming soon)
