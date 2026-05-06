@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi, I'm Ethan! </h1>
-  <h2> Full-stack developer and University Student
+  <h2> Software Engineer and University Student
   <p>
     <a href="https://github.com/EDiasAlberto">
       <img src="https://img.shields.io/github/followers/EDiasAlberto?label=Follow&style=social" />
@@ -13,7 +13,7 @@
 
 # About me
 Hi, my name is Ethan Dias Alberto! I'm currently a university student studying Computer Science, but I love exploring the field in my own time.
-I have experience with full-stack web development, ArduinoC, Python and C, amongst other things, and I'm always eager to make the list grow! 
+I have experience with full-stack web development, Rust, Python and C, amongst other things, and I'm always eager to make the list grow! 
 
 ## Current Project(s):
 - Peer-to-Peer means of hosting websites, with UDP holepunching
